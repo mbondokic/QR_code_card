@@ -2,4 +2,4 @@
 
 Challenge from [FrontendMentor.io](https://www.frontendmentor.io/)
 
-[Component preview](https://github.com/mbondokic/QR_code_card)
+[Component preview](https://github.com/mbondokic/QR_code_card/public)
